@@ -1,0 +1,6 @@
+Player,Position,Actual_Value_EUR,Predicted_Value_EUR,Undervaluation_Amount,assists_per90,xg_net,interceptions,tackles_att_3rd,carries_into_penalty_area,League Tier
+Harry Kane,Centre-Forward,100000000.00000018,257469909.59377882,157469909.59377864,0.27,5.5,6.0,4.0,11.0,2
+Florian Wirtz,Attacking Midfield,130000000.00000003,262839417.39344233,132839417.3934423,0.45,-0.3,6.0,5.0,35.0,2
+Florian Lejeune,Centre-Back / Baseline,3000000.0000000023,127352918.63327691,124352918.63327691,0.04,-1.0,15.0,1.0,0.0,2
+Jamal Musiala,Attacking Midfield,119999999.99999982,217310292.93770632,97310292.9377065,0.29,2.2,15.0,9.0,28.0,2
+Martin Ødegaard,Attacking Midfield,109999999.99999988,205420356.663878,95420356.66387811,0.24,0.4,7.0,7.0,24.0,1
